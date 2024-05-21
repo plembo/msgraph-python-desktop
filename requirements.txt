@@ -10,6 +10,6 @@ pycodestyle==2.6.0
 pycparser==2.20
 pyflakes==2.2.0
 PyJWT==2.4.0
-requests==2.31.0
+requests==2.32.0
 six==1.15.0
 urllib3==1.26.18
